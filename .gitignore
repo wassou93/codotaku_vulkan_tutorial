@@ -1,0 +1,41 @@
+# Build directory
+/build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# IDE specific files
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore other temporary files
+.DS_Store
+Thumbs.db
+
